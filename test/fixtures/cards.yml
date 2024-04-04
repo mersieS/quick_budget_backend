@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: one
+  wallet: one
+  active: false
+  add_to_wallet: false
+
+two:
+  type: two
+  wallet: two
+  active: false
+  add_to_wallet: false
